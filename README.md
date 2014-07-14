@@ -1,2 +1,3 @@
 Scribbler
 =========
+Note-sharing application.
